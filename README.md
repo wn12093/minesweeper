@@ -3,7 +3,7 @@
 ## 실행 방법
 
 1. 저장소를 다운로드합니다.
-2. `minesweeper.sln` 파일을 Visual Studio에서 실행합니다.
+2. `minesweeper.slnx` 파일을 Visual Studio에서 실행합니다.
 3. 빌드 후 실행 (`Ctrl + F5`) 합니다.
 
 ---
