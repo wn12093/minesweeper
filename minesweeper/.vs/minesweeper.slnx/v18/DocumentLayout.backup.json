@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADFC0D-481F-445A-B336-1E55AC1BAC08}|minesweeper\\minesweeper.vcxproj|C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\minesweeper\\minesweeper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53ADFC0D-481F-445A-B336-1E55AC1BAC08}|minesweeper\\minesweeper.vcxproj|solutionrelative:minesweeper\\minesweeper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADFC0D-481F-445A-B336-1E55AC1BAC08}|minesweeper\\minesweeper.vcxproj|C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\minesweeper\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53ADFC0D-481F-445A-B336-1E55AC1BAC08}|minesweeper\\minesweeper.vcxproj|solutionrelative:minesweeper\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "function.c",
+              "DocumentMoniker": "C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\minesweeper\\function.c",
+              "RelativeDocumentMoniker": "minesweeper\\function.c",
+              "ToolTip": "C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\minesweeper\\function.c",
+              "RelativeToolTip": "minesweeper\\function.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-18T11:28:56.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minesweeper.c",
+              "DocumentMoniker": "C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\minesweeper\\minesweeper.c",
+              "RelativeDocumentMoniker": "minesweeper\\minesweeper.c",
+              "ToolTip": "C:\\Users\\atom1\\Desktop\\minesweeper\\minesweeper\\minesweeper\\minesweeper.c*",
+              "RelativeToolTip": "minesweeper\\minesweeper.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-18T11:28:43.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
