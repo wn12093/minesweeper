@@ -1,0 +1,5 @@
+﻿  minesweeper.c
+C:\Users\leemingu\Desktop\2023212581\2023212581\minesweeper.c(17,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\leemingu\Desktop\2023212581\2023212581\minesweeper.c(24,12): warning C4133: '함수': 'char [50][50]'과(와) 'int (*)[50]' 사이의 형식이 호환되지 않습니다.
+C:\Users\leemingu\Desktop\2023212581\2023212581\minesweeper.c(31,14): warning C4133: '함수': 'char [50][50]'과(와) 'int (*)[50]' 사이의 형식이 호환되지 않습니다.
+  2023212581.vcxproj -> C:\Users\leemingu\Desktop\2023212581\x64\Debug\2023212581.exe
